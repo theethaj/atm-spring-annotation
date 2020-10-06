@@ -1,1 +1,4 @@
-# atm-spring-annotation
+# ATM Example
+
+Dependency injection with a layer of indirection.
+
